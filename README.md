@@ -1,2 +1,2 @@
 # Entropy
-Calculate the unconditional entropy and conditional entropy in _Little Price_
+Calculate the unconditional entropy and conditional entropy in _Little Price_.

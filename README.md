@@ -1,2 +1,2 @@
 # Entropy
-信息论课程代码
+Calculate the unconditional entropy and conditional entropy in _Little Price_
